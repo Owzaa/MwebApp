@@ -1,0 +1,17 @@
+* {
+  padding: 0px 3px;
+  
+}
+
+.container {
+  background-color: #fffffffd;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-evenly;
+  font-size: calc(10px + 2vmin);
+  color: rgba(10, 10, 10, 0.63);
+}
+
+.App-link {
+  color: #61dafb;
+}
